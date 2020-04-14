@@ -1,5 +1,6 @@
-## Welcome to Your Hub for Violin Virtual Private Lessons 
-## With Instructor Kersti McGee, MM
+## Welcome to Your Hub for 
+### Virtual Private Violin Lessons 
+## with Instructor Kersti McGee, MM
 
 You can contact me for scheduling and pricing at [editor on GitHub](https://github.com/Kerstimcgee/vibrationsviolinstudio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
