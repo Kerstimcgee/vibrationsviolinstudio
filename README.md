@@ -8,7 +8,7 @@ You can contact me for scheduling and pricing at [editor on GitHub](https://gith
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstimcgee@gmail.com">
     Name: <input type="text" name="Name" placeholder="Your name">
-    Email: <input type="email" name="_replyto" placeholder="Your email">
+    Email: <input type="email" name="_replyto" placeholder="Your email" required>
     <br>
     Message: <textarea name="message" placeholder="Type your message"></textarea>
     <input type="submit" value="Send">
