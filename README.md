@@ -2,11 +2,11 @@
 ## Virtual Private Violin Lessons 
 ## with Instructor Kersti McGee, MM
 
-/*<img src="
+
 
 ![IMG_0379](https://user-images.githubusercontent.com/33880496/79673558-ec234280-8197-11ea-8917-7d5a8f853738.JPG)" 
 
-/*alt="logo image"/img>" 
+
 
 
 <br>
