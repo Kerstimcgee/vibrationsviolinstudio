@@ -3,6 +3,12 @@
 ## with Instructor Kersti McGee, MM
 
 <br>
+
+### About me 
+🎻 Graduate MM, Lamont School of Music in Denver, CO 2017 | BM Performance, Eastern Washington University 2013
+🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire
+🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="elsistemacolorado.org">El Sistema Colorado!</a>
+
 <h2>Contact</h2>
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstimcgee@gmail.com">
@@ -17,7 +23,9 @@
   </form>
 </body>
 <br>
-### Markdown
+![IMG_2281](https://user-images.githubusercontent.com/33880496/79673832-72408880-819a-11ea-96ca-6446da991d64.JPG)
+
+
 
 <!--Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
