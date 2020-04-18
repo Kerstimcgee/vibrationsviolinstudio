@@ -2,9 +2,10 @@
 ## Virtual Private Violin Lessons 
 ## with Instructor Kersti McGee, MM
 <img src="https://github.com/Kerstimcgee/html-me-something/blob/master/IMG_3208.JPG" alt="Kersti McGee Image 2"/img>" 
-<h2>Contact</h2>
+
 
 <br>
+<h2>Contact</h2>
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstimcgee@gmail.com">
     Name: <input type="text" name="Name" placeholder="Your name">
