@@ -2,14 +2,13 @@
 ## Virtual Private Violin Lessons 
 ## with Instructor Kersti McGee, MM
 
-<br>
-
-### About me 
 ![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
+<br>
+### About me 
 <br>
 🎻 Graduate MM, Lamont School of Music in Denver, CO 2017 | BM Performance, Eastern Washington University 2013
 🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire
-🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="elsistemacolorado.org">El Sistema Colorado!</a>
+🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="https://www.elsistemacolorado.org">El Sistema Colorado!</a>
 
 <h2>Contact</h2>
 <body>
