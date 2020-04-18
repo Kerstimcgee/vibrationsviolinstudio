@@ -3,7 +3,7 @@
 ## with Instructor Kersti McGee, MM
 <img src="<img src="https://github.com/Kerstimcgee/html-me-something/blob/master/IMG_3208.JPG" alt="Kersti McGee Image 2"/img>" alt="Kersti McGee" width="200"
          height="80">
-##Contact
+<h2>Contact</h2>
 
 <br>
 <body>
@@ -11,6 +11,7 @@
     Name: <input type="text" name="Name" placeholder="Your name">
     Email: <input type="email" name="_replyto" placeholder="Your email" required>
     <br>
+           <br>
     Message: <textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
     <input type="submit" value="Send">
     <input type="hidden" name="_subject" value="Enter your subject here" />
