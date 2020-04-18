@@ -1,7 +1,7 @@
 ### Welcome to Your Hub for 
 ## Virtual Private Violin Lessons 
 ## with Instructor Kersti McGee, MM
-<img src="/html/images/test.png" alt="Simply Easy Learning" width="200"
+<img src="<img src="https://github.com/Kerstimcgee/html-me-something/blob/master/IMG_3208.JPG" alt="Kersti McGee Image 2"/img>" alt="Kersti McGee" width="200"
          height="80">
 ##Contact
 
