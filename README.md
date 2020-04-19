@@ -2,22 +2,21 @@
 ## Virtual Private Violin Lessons 
 ## with Instructor Kersti McGee, MM
 
-![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG=189x329.745)
-<br>
-### About me 
-<br>
+![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
+
+### About  
 🎻 Graduate MM, Lamont School of Music in Denver, CO 2017 | BM Performance, Eastern Washington University 2013
 🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire
 🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="https://elsistemacolorado.org">El Sistema Colorado!</a>
 
-<h2>Contact</h2>
+<h2>Contact Me</h2>
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstimcgee@gmail.com">
-    Name: <input type="text" name="Name" placeholder="Your name">
-    Email: <input type="email" name="_replyto" placeholder="Your email" required>
+    <strong>Name:</Strong> <input type="text" name="Name" placeholder="Your name">
+    <strong>Email:</Strong> <input type="email" name="_replyto" placeholder="Your email" required>
     <br>
            <br>
-    Message: <textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
+    <strong>Message:</strong> <textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
     <input type="submit" value="Send">
     <input type="hidden" name="_subject" value="Enter your subject here" />
     <input type="hidden" name="_next" value="thanks.html" />
