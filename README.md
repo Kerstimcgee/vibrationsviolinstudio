@@ -3,11 +3,11 @@
 ![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
 
 ### About  
-<ul style="list-style-type:none">
-<li>🎻 Graduate MM, Lamont School of Music in Denver, CO 2017 | BM Performance, Eastern Washington University 2013</li>
-<li>🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire</li>
-<li>🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="https://www.google.com/search?ei=Ap2bXtLYNc63tQaumaLYCw&q=el+sistema+colorado&oq=el+sistema+colorado&gs_lcp=CgZwc3ktYWIQAzICCAAyAggmOgQIABBHOggIABCDARCRAjoFCAAQkQI6BQgAEIMBOgQIABBDOgYIABAWEB46CAgAEBYQChAeULh8WOqOAWD5kAFoAHAFeACAAfwBiAGIE5IBBTguNy40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjS4bTEn_PoAhXOW80KHa6MCLsQ4dUDCAw&uact=5">El Sistema Colorado!</a></li>
-</ul>
+
+<p>🎻 Graduate MM, Lamont School of Music in Denver, CO 2017 | BM Performance, Eastern Washington University 2013</p>
+<p>🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire</p>
+<p>🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="https://www.google.com/search?ei=Ap2bXtLYNc63tQaumaLYCw&q=el+sistema+colorado&oq=el+sistema+colorado&gs_lcp=CgZwc3ktYWIQAzICCAAyAggmOgQIABBHOggIABCDARCRAjoFCAAQkQI6BQgAEIMBOgQIABBDOgYIABAWEB46CAgAEBYQChAeULh8WOqOAWD5kAFoAHAFeACAAfwBiAGIE5IBBTguNy40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjS4bTEn_PoAhXOW80KHa6MCLsQ4dUDCAw&uact=5">El Sistema Colorado!</a></p>
+
 
 <h2>Contact Me</h2>
 <body>
