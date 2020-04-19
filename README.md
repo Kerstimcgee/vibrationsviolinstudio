@@ -1,4 +1,5 @@
-
+##Welcome to Your Hub for Virtual Private Violin Lessons
+##with Violinista Kersti McGee, MM
 ![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
 
 ### About  
@@ -15,7 +16,7 @@
     <strong>Email:</Strong> <input type="email" name="_replyto" placeholder="Your email" required>
    <br>
          
-    <strong>Message:</strong> <textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
+    <strong>Message:</strong> <br><textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
     <input type="submit" value="Send">
     <input type="hidden" name="_subject" value="Enter your subject here" />
     <input type="hidden" name="_next" value="thanks.html" />
