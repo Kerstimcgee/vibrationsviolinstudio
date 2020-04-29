@@ -1,3 +1,13 @@
+<head><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-164908798-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-164908798-1');
+</script>
+</head>
 # Welcome to Your Hub for Virtual Violin Lessons
 ### with Violinista Kersti McGee, MM
 ![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
