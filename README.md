@@ -14,9 +14,10 @@
 
 <h2> About </h2> 
 
-<p>🎻 MM Graduate, Lamont School of Music in Denver | BM Performance, Eastern Washington University </p>
+<p>🎻 MM, Violin Performance. Lamont School of Music in Denver, CO | BM Performance, Eastern Washington University </p>
 <p>🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire</p>
-<p>🎻 ¡Soy maestra de los instrumentos de cuertas con <a href="https://www.google.com/search?ei=Ap2bXtLYNc63tQaumaLYCw&q=el+sistema+colorado&oq=el+sistema+colorado&gs_lcp=CgZwc3ktYWIQAzICCAAyAggmOgQIABBHOggIABCDARCRAjoFCAAQkQI6BQgAEIMBOgQIABBDOgYIABAWEB46CAgAEBYQChAeULh8WOqOAWD5kAFoAHAFeACAAfwBiAGIE5IBBTguNy40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwjS4bTEn_PoAhXOW80KHa6MCLsQ4dUDCAw&uact=5">El Sistema Colorado!</a></p>
+<p>🎻 Sliding Scale Session Musician - tell me about your cool project! :)
+<a href="https://soundcloud.com/kersti-mcgee">My Soundcloud</a></p>
 
 
 <h2>Contact</h2>
