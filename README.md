@@ -17,7 +17,7 @@
 <p>🎻 MM, Violin Performance. Lamont School of Music in Denver, CO | BM Performance, Eastern Washington University </p>
 <p>🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire</p>
 <p>🎻 Sliding Scale Session Musician - tell me about your cool project! :)
-<a href="https://soundcloud.com/kersti-mcgee">My Soundcloud</a></p>
+<a href=""></a></p>
 
 
 <h2>Contact</h2>
