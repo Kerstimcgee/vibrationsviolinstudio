@@ -22,7 +22,7 @@
 
 <h2>Contact</h2>
 <body>
-  <form name="input" method="POST" action="https://formspree.io/kerstimcgee@gmail.com">
+  <form name="input" method="POST" action="https://formspree.io/kerstivibes@gmail.com">
     <strong>Name:</Strong> <input type="text" name="Name" placeholder="Your name">
     <br>
     
