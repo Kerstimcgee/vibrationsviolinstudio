@@ -32,7 +32,7 @@
    <br>
          
     <strong>Message:</strong> <br><textarea name="message" placeholder="Let's talk violin lessons!"></textarea>
-    <input type="submit" value="Send">
+    <input type="submit" value="Submit">
     <input type="hidden" name="_subject" value="Enter your subject here" />
     <input type="hidden" name="_next" value="thanks.html" />
   </form>
