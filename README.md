@@ -9,18 +9,19 @@
 </script>
 </head>
 # Welcome to Your Hub for Virtual Violin Lessons
-### with Violinista Kersti McGee, MM
+### with Violinist, Kersti McGee
 ![IMG_2274 2](https://user-images.githubusercontent.com/33880496/79674149-96ea2f80-819d-11ea-96ff-911b6759968e.JPG)
 
 <h2> About </h2> 
 
-<p>🎻 MM, Violin Performance. Lamont School of Music in Denver, CO | BM Performance, Eastern Washington University </p>
+<p>🎻 MM, Violin Performance. Lamont School of Music in Denver, CO | BM Violin Performance, Eastern Washington University </p>
 <p>🎻 Professional performer and teacher of standard chamber, solo, and symphonic repertoire</p>
-<p>🎻 Sliding Scale Session Musician - tell me about your cool project! :)
+<p>🎻 Session Musician 
 <a href=""></a></p>
 
 
 <h2>Contact</h2>
+<h1>(This form sends to my personal email)
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstivibes@gmail.com">
     <strong>Name:</Strong> <input type="text" name="Name" placeholder="Your name">
