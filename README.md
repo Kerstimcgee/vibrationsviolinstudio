@@ -21,7 +21,7 @@
 
 
 <h2>Contact</h2>
-<h1>(This form sends to my personal email)
+<p><strong>(Fill out form and click "Submit" to send a note to my personal email)</strong></p>
 <body>
   <form name="input" method="POST" action="https://formspree.io/kerstivibes@gmail.com">
     <strong>Name:</Strong> <input type="text" name="Name" placeholder="Your name">
